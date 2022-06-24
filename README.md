@@ -1,4 +1,4 @@
-# Credit-applicant-classification
+# Credit applicant classification
 
 <p align="center">
 <img src="https://github.com/aritzLizoain/Credit-applicant-classification/blob/main/Images/main.jpg" width="1300"/>
